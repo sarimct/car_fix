@@ -1,9 +1,6 @@
-<p align="center"><img src="https://www.ingic.com/assets-web/images/logo.png"></p>
+## Laravel Builder with ACL
 
-## InfyOm Generator Builder with ACL
-
-Create Laravel Applications with Admin Panel and ACL in minutes with InfyOm and our Generator Builder. 
-
+Create Laravel Applications with Admin Panel.
 ## Whats used?
 
 - **PHP 7.1** 
@@ -16,8 +13,6 @@ Create Laravel Applications with Admin Panel and ACL in minutes with InfyOm and 
 - Repository Pattern
 
 ## Installation
-- git clone "http://gitlab.axact.com/rehmanali/infyom-boilerplate.git"
-- Update Compsoer "composer update"
 - Edit .env file according to your DB credentials.
 - Rum Migration and Seeder "php artisan migrate:refresh --seed"
 
