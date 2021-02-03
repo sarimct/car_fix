@@ -1,4 +1,4 @@
-## Laravel Builder with ACL
+## Carfix
 
 Create Laravel Applications with Admin Panel.
 ## Whats used?
@@ -13,6 +13,8 @@ Create Laravel Applications with Admin Panel.
 - Repository Pattern
 
 ## Installation
+- git clone "https://github.com/sarimct/car_fix.git"
+- Update Composer "composer update"
 - Edit .env file according to your DB credentials.
 - Rum Migration and Seeder "php artisan migrate:refresh --seed"
 
