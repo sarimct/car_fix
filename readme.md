@@ -1,6 +1,7 @@
-## Carfix
+## InfyOm Generator Builder with ACL
 
-Create Laravel Applications with Admin Panel.
+Create Laravel Applications with Admin Panel and ACL in minutes with InfyOm and our Generator Builder. 
+
 ## Whats used?
 
 - **PHP 7.1** 
@@ -11,7 +12,6 @@ Create Laravel Applications with Admin Panel.
 - DataTables
 - Entrust (ACL)
 - Repository Pattern
-
 
 ## Installation
 - git clone "https://github.com/sarimct/car_fix.git"
