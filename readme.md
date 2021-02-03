@@ -12,6 +12,7 @@ Create Laravel Applications with Admin Panel.
 - Entrust (ACL)
 - Repository Pattern
 
+
 ## Installation
 - git clone "https://github.com/sarimct/car_fix.git"
 - Update Composer "composer update"
