@@ -1,6 +1,6 @@
-## InfyOm Generator Builder with ACL
+## Carfix Compare
 
-Create Laravel Applications with Admin Panel and ACL in minutes with InfyOm and our Generator Builder. 
+Carfix Compare web application.
 
 ## Whats used?
 
