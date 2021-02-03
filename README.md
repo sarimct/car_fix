@@ -1,6 +1,6 @@
 <p align="center"><img src="https://www.ingic.com/assets-web/images/logo.png"></p>
 
-## InfyOm Generator Builder with ACL
+## Carfix
 
 Create Laravel Applications with Admin Panel and ACL in minutes with InfyOm and our Generator Builder. 
 
